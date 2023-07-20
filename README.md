@@ -10,49 +10,31 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-|               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**React hooks**                   | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Next.js**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
-|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**MJML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Node.js**                       | ![done][done]     | ![done][done]          |                  |
-|**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**PostCSS**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Accessibility**                 | ![done][done]     | ![done][done]          |                  |
-|**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Husky**                         | ![done][done]     | ![done][done]          |                  |
-|**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
-|**Netlify**                       | ![done][done]     | ![done][done]          |                  |
-|**Backbone**                      | ![done][done]     | ![done][done]          |                  |
-|**jQuery**                        | ![done][done]     | ![done][done]          |                  |
-|**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
-|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
-|**Open Source Contribution**      | ![done][done]     |                        |                  |
-|**Angular 4**                     | ![done][done]     |                        |                  |
+| Skill                 | 1<br>Introduction | 2<br>Occasional Use | 3<br>Regular use |
+|:----------------------|:-----------------:|:-------------------:|:----------------:|
+| **Java**              | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Spring 5**          | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Hibernate**         | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Spring Security**   | ![done][done]     |    ![done][done]    |                  |
+| **Spring Data**       | ![done][done]     |    ![done][done]    |                  |
+| **Docker**            | ![done][done]     |    ![done][done]    |                  |
+| **Thymeleaf**         | ![done][done]     |    ![done][done]    |                  |
+| **Git**               | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Command line**      | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Agile**             | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Jira**              | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **GitHub**            | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Working with APIs** | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **Website Building**  | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| **CSS**               | ![done][done]     |    ![done][done]    |                  |
+| **JavaScript**        | ![done][done]     |                     |                  |
+| **Kubernetes**        | ![done][done]     |                     |                  |
+| **Spring Cloud**      | ![done][done]     |                     |                  |
+| **Bootstrap**         | ![done][done]     |                     |                  |
+| **JSP**               | ![done][done]     |    ![done][done]    |                  |
+| **Markdown**          | ![done][done]     |    ![done][done]    |  ![done][done]   |
+
+
 
 ----
 
