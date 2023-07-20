@@ -1,8 +1,6 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+# My Learning Tracker
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
-
-[Portfolio](https://www.sykhoudeib.com/ "sykhoudeib.com") || [Blog](https://www.blog.sykhoudeib.com/ "My web dev articles")
+A complete log of my development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 ----
 
@@ -10,32 +8,42 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-| Skill                 | 1<br>Introduction | 2<br>Occasional Use | 3<br>Regular use |
-|:----------------------|:-----------------:|:-------------------:|:----------------:|
-| **Java**              | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Spring 5**          | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Hibernate**         | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Spring Security**   | ![done][done]     |    ![done][done]    |                  |
-| **Spring Data**       | ![done][done]     |    ![done][done]    |                  |
-| **Docker**            | ![done][done]     |    ![done][done]    |                  |
-| **Thymeleaf**         | ![done][done]     |    ![done][done]    |                  |
-| **Git**               | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Command line**      | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Agile**             | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Jira**              | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **GitHub**            | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Working with APIs** | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **Website Building**  | ![done][done]     |    ![done][done]    |  ![done][done]   |
-| **CSS**               | ![done][done]     |    ![done][done]    |                  |
-| **JavaScript**        | ![done][done]     |                     |                  |
-| **Kubernetes**        | ![done][done]     |                     |                  |
-| **Spring Cloud**      | ![done][done]     |                     |                  |
-| **Bootstrap**         | ![done][done]     |                     |                  |
-| **JSP**               | ![done][done]     |    ![done][done]    |                  |
-| **Markdown**          | ![done][done]     |    ![done][done]    |  ![done][done]   |
+| Skill               | 1<br>Introduction | 2<br>Occasional Use | 3<br>Regular use |
+|:--------------------|:-----------------:|:-------------------:|:----------------:|
+| **Java**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Spring 5**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Spring Boot 3.x** |   ![done][done]   |    ![done][done]    |                  |
+| **Hibernate**       |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Spring Security** |   ![done][done]   |    ![done][done]    |                  |
+| **Spring MVC**      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **REST**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Spring Data**     |   ![done][done]   |    ![done][done]    |                  |
+| **Spring Cloud**    |   ![done][done]   |                     |                  |
+| **JDBC**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **SQL**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Docker**          |   ![done][done]   |    ![done][done]    |                  |
+| **Thymeleaf**       |   ![done][done]   |    ![done][done]    |                  |
+| **Git**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Command line**    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Agile**           |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Jira**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **GitHub**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Maven**           |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Teamcity**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Jenkins**         |   ![done][done]   |    ![done][done]    |                  |
+| **JSP**             |   ![done][done]   |    ![done][done]    |                  |
+| **Kubernetes**      |   ![done][done]   |                     |                  |
+| **CSS**             |   ![done][done]   |    ![done][done]    |                  |
+| **JavaScript**      |   ![done][done]   |                     |                  |
+| **Bootstrap**       |   ![done][done]   |                     |                  |
+| **Markdown**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Lombok**          |   ![done][done]   |    ![done][done]    |                  |
+| **Swagger**         |   ![done][done]   |    ![done][done]    |                  |
+| **TestNG**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **JUnit**           |   ![done][done]   |    ![done][done]    |                  |
 
 
-
+ Swagger/OpenAPI 3.0
 ----
 
 ## Learning
@@ -46,177 +54,87 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year     | Course                                                          |                Tutor                        |
-|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Dec 2022   | [React and TypeScript]                                          | [Steve Kinney]                              |
-| ![Completed][Completed]     | Nov 2022   | [TypeScript Fundamentals v3]                                    | [Mike North]                                |
-| ![Completed][Completed]     | Nov 2022   | [JavaScript: The New Hard Parts]                                | [Will Sentence]                             |
-| ![Completed][Completed]     | Sept 2022  | [The Hard Parts of Servers and Node.js]                         | [Will Sentence]                             |
-| ![Completed][Completed]     | Sept 2022  | [Understanding TypeScript]                                      | [Maximilian Schwarzmüller]                  |
-| ![Completed][Completed]     | Mar 2022   | [JavaScript: The Hard Parts]                                    | [Will Sentence]                             |
-| ![Completed][Completed]     | Jan 2022   | [Dotfiles from start to finish-ish]                             | [Patrick McDonald]                          |
-| ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
-| ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
-| ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Sept 2019  | [You Don't Know JavaScript]: Objects & Classes                  | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Jul 2019   | [You Don't Know JavaScript]: Scope & Closure                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | May 2019   | [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
-| ![Completed][Completed]     | Feb 2019   | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019   | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| ![Completed][Completed]     | Aug 2018   | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![Completed][Completed]     | Feb 2018   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017       | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017       | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |            | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |            | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |            | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+|            Status           | Year     | Course                                                              |                 Tutor                 |
+|:---------------------------:|:---------|:--------------------------------------------------------------------|:-------------------------------------:|
+| ![Completed][Completed]     | Oct 2022 | [Стажировка TopJava]                                                |   [Григорий Кислин] - [javaops.ru]    |
+| ![Completed][Completed]     | Dec 2021 | [Introduction to Git]                                               |           [Luxoft Training]           |
+| ![Completed][Completed]     | Dec 2021 | [Practice of Working with Kubernetes: Basic Topics]                 |           [Luxoft Training]           |
+| ![Completed][Completed]     | Oct 2021 | [Kotlin for Java Developers]                                        |  [Svetlana Isakova] - [coursera.org]  |
+| ![Completed][Completed]     | Sep 2021 | [Algorithms]                                                        |  [Robert Sedgewick] - [coursera.org]  |
+| ![Completed][Completed]     | May 2021 | [Основы Hadoop]                                                     |         [IBS Training Center]         |
+| ![Completed][Completed]     | Apr 2021 | [Java Advanced: Functional, Asynchronous, and Reactive Programming] | [Luxoft Training] - [Vladimir Sonkin] |
+| ![Completed][Completed]     | Apr 2021 | [SQL DML Specialist (All requirements)]                             |              [sql-ex.ru]              |
+| ![Completed][Completed]     | Mar 2021 | [Introduction to Spring Cloud]                                      |           [Luxoft Training]           |
+| ![Completed][Completed]     | May 2020 | [SQL DML Specialist (Basic knowledge)]                              |              [sql-ex.ru]              |
+
 
 [//]: # (Reference links to courses)
-
-[React and TypeScript]: https://frontendmasters.com/courses/react-typescript/
-[TypeScript Fundamentals v3]: https://frontendmasters.com/courses/typescript-v3/
-[JavaScript: The New Hard Parts]: https://frontendmasters.com/courses/javascript-new-hard-parts/
-[The Hard Parts of Servers and Node.js]: https://frontendmasters.com/courses/servers-node-js
-[Understanding TypeScript]: https://www.udemy.com/course/understanding-typescript/
-[JavaScript: The Hard Parts]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
-[Dotfiles from start to finish-ish]: https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/
-[Getting Started With Redux]: https://egghead.io/courses/getting-started-with-redux
-[The Next.js Handbook]: https://www.freecodecamp.org/news/the-next-js-handbook/
-[The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
-[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
-[Front End Development]: https://www.freecodecamp.org/syknapse
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
-[The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
-
+[Introduction to Spring Cloud]: https://www.luxoft-training.com/it-course/introduction-to-Spring-Cloud/
+[Kotlin for Java Developers]: https://www.coursera.org/learn/kotlin-for-java-developers
+[Java Advanced: Functional, Asynchronous, and Reactive Programming]: https://www.luxoft-training.com/it-course/java-advanced-functional-asynchronous-reactive-programming/
+[Основы Hadoop]: https://ibs-training.ru/kurs/osnovy_hadoop.html
+[Algorithms]: https://www.coursera.org/learn/algorithms-part1
+[Practice of Working with Kubernetes: Basic Topics]: https://www.luxoft-training.com/it-course/kubernetes-fundamentals-training/
+[Introduction to Git]: https://www.luxoft-training.com/it-course/introduction-to-git/
+[Стажировка TopJava]: https://javaops.ru/view/topjava
+[SQL DML Specialist (All requirements)]: https://www.sql-ex.ru/certification/confirm.php?cert_id=B21311722
+[SQL DML Specialist (Basic knowledge)]: https://www.sql-ex.ru/certification/confirm.php?cert_id=A20311722
 [//]: # (Reference links to tutors)
 
-[Steve Kinney]: https://twitter.com/stevekinney
-[Mike North]: https://twitter.com/michaellnorth
-[Maximilian Schwarzmüller]: https://twitter.com/maxedapps
-[Will Sentence]: https://twitter.com/willsentance
-[Patrick McDonald]: https://www.udemy.com/user/patrick-mcdonald-8/
-[Dan Abramov]: https://twitter.com/dan_abramov
-[Kyle Simpson]: https://twitter.com/getify
-[Flavio Copes]: https://twitter.com/flaviocopes
-[Ryan McDermott]: https://github.com/ryanmcdermott
-[Cassidy Williams]: https://twitter.com/cassidoo
-[Christina Truong]: https://twitter.com/christinatruong
-[Lynda.com]: https://www.lynda.com
-[Ray Villalobos]: https://twitter.com/planetoftheweb
-[Michael Hartl]: https://twitter.com/mhartl
-[Free Code Camp]: https://www.freecodecamp.org
-[Udemy]: https://www.udemy.com
-[Udacity]: https://www.udacity.com
-[Wes Bos]: https://twitter.com/wesbos
-[Marijn Haverbeke]: https://twitter.com/MarijnJH
-[Per Harald Borgen]: https://twitter.com/perborgen
-[Scrimba]: https://scrimba.com/
-[Kent C Dodds]: https://egghead.io/instructors/kentcdodds
-[egghead.io]: https://egghead.io/
+[Григорий Кислин]: https://javaops.ru/#contacts
+[javaops.ru]: https://javaops.ru/
+[Robert Sedgewick]: https://sedgewick.io/
+[coursera.org]: https://www.coursera.org/
+[Svetlana Isakova]: https://www.coursera.org/instructor/svetlana-isakova
+[IBS Training Center]: https://ibs-training.ru/
+[Vladimir Sonkin]: https://www.luxoft-training.com/trainers/sonkin/
+[Luxoft Training]: https://www.luxoft-training.com/
+[sql-ex.ru]: https://www.sql-ex.ru/
 
-### Paths
+---
+## Books
 
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
+[//]: # (Status images)
 
-[//]: # (Reference links to paths)
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-[33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
+|            Status            | Book                                                            |                              Author                              |
+|:----------------------------:|:----------------------------------------------------------------|:----------------------------------------------------------------:|
+|   ![Completed][Completed]    | [Code Complete]                                                 |                        [Steve McConnell]                         |
+|   ![Completed][Completed]    | [Effective Java]                                                |                          [Joshua Bloch]                          |
+|   ![Completed][Completed]    | [Design Patterns]                                               | [Erich Gamma], [Richard Helm], [Ralph Johnson], [John Vlissides] |
+|   ![Completed][Completed]    | [Настройка SQL. Для профессионалов]                             |                            [Дэн Тоу]                             |
+|   ![Completed][Completed]    | [Optimizing Java]                                               |                       [Benjamin J. Evans]                        |
+|   ![Completed][Completed]    | [The Docker Book]                                               |                         [James Turnbull]                         |
+| ![In Progress][In Progress]  | [Pro Spring 5]                                                  |                 [Iuliana Cosmina], [Rob Harrop]                  |
+| ![In Progress][In Progress]  | [Современные операционные системы]                              |                        [Таненбаум Эндрю]                         |
+
+[//]: # (Reference links to books)
+[Code Complete]: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+[Effective Java]: https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997
+[Design Patterns]: https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+[Настройка SQL. Для профессионалов]: https://www.oreilly.com/library/view/sql-tuning/0596005733/
+[Optimizing Java]: https://www.amazon.co.uk/dp/1492025798?linkCode=gs2&tag=javarevisit01-21
+[The Docker Book]: https://www.amazon.com/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4
+[Pro Spring 5]: https://www.amazon.com/Pro-Spring-Depth-Guide-Framework/dp/1484228073
+[Современные операционные системы]: https://www.labirint.ru/books/485463/
+
 
 [//]: # (Reference links to authors)
-[Leonardo Maldonado]: https://github.com/leonardomso
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
+[Steve McConnell]: https://en.wikipedia.org/wiki/Steve_McConnell
+[Joshua Bloch]: https://en.wikipedia.org/wiki/Joshua_Bloch
+[Erich Gamma]: https://en.wikipedia.org/wiki/Erich_Gamma
+[Richard Helm]: https://en.wikipedia.org/wiki/Richard_Helm
+[Ralph Johnson]: https://en.wikipedia.org/wiki/Ralph_Johnson_(computer_scientist)
+[John Vlissides]: https://en.wikipedia.org/wiki/John_Vlissides
+[Дэн Тоу]: https://www.oreilly.com/pub/au/1291
+[Benjamin J. Evans]: https://www.oreilly.com/pub/au/6137
+[James Turnbull]: https://en.wikipedia.org/wiki/James_Turnbull
+[Iuliana Cosmina]: https://github.com/iuliana
+[Таненбаум Эндрю]: https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum
+[Rob Harrop]: https://www.oreilly.com/people/rob-harrop/
 
 ----
 
-## Interests
-
-I'm currently interested in/excited about:
-
-+ Typescript
-+ Testing
-+ Node and the MERN stack
-+ .dotfiles
-
-----
-
-## Web Development Checklist
-
-This is a list of basic objectives to meet on the road to mastering web development.
-
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
-
-
-* [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [x] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [x] Participate in a hackathon
-* [x] Deploy a project
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
-
-----
-
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star :)
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
-----
-
-### Acknowledgments
-
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
-
-### License
-
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
