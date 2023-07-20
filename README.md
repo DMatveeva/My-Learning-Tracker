@@ -42,8 +42,6 @@ A complete log of my development skills, learning, resources, highlights, intere
 | **TestNG**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **JUnit**           |   ![done][done]   |    ![done][done]    |                  |
 
-
- Swagger/OpenAPI 3.0
 ----
 
 ## Learning
