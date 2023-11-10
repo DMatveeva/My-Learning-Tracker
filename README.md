@@ -12,7 +12,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 |:--------------------|:-----------------:|:-------------------:|:----------------:|
 | **Java**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Spring 5**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Spring Boot 3.x** |   ![done][done]   |    ![done][done]    |                  |
+| **Spring Boot 3.x** |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Hibernate**       |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Spring Security** |   ![done][done]   |    ![done][done]    |                  |
 | **Spring MVC**      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
@@ -21,7 +21,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 | **Spring Cloud**    |   ![done][done]   |                     |                  |
 | **JDBC**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **SQL**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Docker**          |   ![done][done]   |    ![done][done]    |                  |
+| **Docker**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Thymeleaf**       |   ![done][done]   |    ![done][done]    |                  |
 | **Git**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Command line**    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
@@ -32,7 +32,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 | **Teamcity**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Jenkins**         |   ![done][done]   |    ![done][done]    |                  |
 | **JSP**             |   ![done][done]   |    ![done][done]    |                  |
-| **Kubernetes**      |   ![done][done]   |                     |                  |
+| **Kubernetes**      |   ![done][done]   |    ![done][done]    |                  |
 | **CSS**             |   ![done][done]   |    ![done][done]    |                  |
 | **JavaScript**      |   ![done][done]   |                     |                  |
 | **Bootstrap**       |   ![done][done]   |                     |                  |
@@ -40,7 +40,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 | **Lombok**          |   ![done][done]   |    ![done][done]    |                  |
 | **Swagger**         |   ![done][done]   |    ![done][done]    |                  |
 | **TestNG**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **JUnit**           |   ![done][done]   |    ![done][done]    |                  |
+| **JUnit**           |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 
 ----
 
